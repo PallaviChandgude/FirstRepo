@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="112140" started-at="2020-09-10T13:29:54Z" finished-at="2020-09-10T13:31:46Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="112140" started-at="2020-09-10T13:29:54Z" finished-at="2020-09-10T13:31:46Z">
+      <class name="com.testingshatra.functionaltests.HomePageTests">
+        <test-method status="PASS" signature="verifyIfLogoPresent()[pri:0, instance:com.testingshatra.functionaltests.HomePageTests@14b1c02]" name="verifyIfLogoPresent" duration-ms="54006" started-at="2020-09-10T18:59:54Z" finished-at="2020-09-10T19:00:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyIfLogoPresent -->
+        <test-method status="PASS" signature="verifyPresenceOfAllMenuItems()[pri:0, instance:com.testingshatra.functionaltests.HomePageTests@14b1c02]" name="verifyPresenceOfAllMenuItems" duration-ms="58040" started-at="2020-09-10T19:00:48Z" finished-at="2020-09-10T19:01:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPresenceOfAllMenuItems -->
+      </class> <!-- com.testingshatra.functionaltests.HomePageTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
